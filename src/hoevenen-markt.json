@@ -1,0 +1,33 @@
+{
+  "LocationResult": [
+    {
+      "Municipality": "Stabroek",
+      "Zipcode": "2940",
+      "Thoroughfarename": "Markt",
+      "Housenumber": null,
+      "ID": 7338,
+      "FormattedAddress": "Markt, Stabroek",
+      "Location": {
+        "Lat_WGS84": 51.306623965868972,
+        "Lon_WGS84": 4.4057949201202788,
+        "X_Lambert72": 152582.76,
+        "Y_Lambert72": 221866.33
+      },
+      "LocationType": "crab_straat",
+      "BoundingBox": {
+        "LowerLeft": {
+          "Lat_WGS84": 51.306175325589159,
+          "Lon_WGS84": 4.40479566631591,
+          "X_Lambert72": 152513.1,
+          "Y_Lambert72": 221816.38
+        },
+        "UpperRight": {
+          "Lat_WGS84": 51.307087808087537,
+          "Lon_WGS84": 4.4072778868953595,
+          "X_Lambert72": 152686.15,
+          "Y_Lambert72": 221917.99
+        }
+      }
+    }
+  ]
+}
